@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\DeviceController;
 use App\Models\Device;
 
 use Illuminate\Support\Facades\Route;
